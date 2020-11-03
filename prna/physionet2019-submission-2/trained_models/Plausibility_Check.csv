@@ -1,0 +1,76 @@
+Parameter,Unit,Plausibility1_min,Plausibility1_max,Plausibility2_min,Plausibility2_max
+HR,BPM,20,300,30,175
+O2Sat,%,0,100,80,100
+Temp,C,15,45,30,45
+SBP,mm Hg,50,250,30,250
+MAP,mm Hg,30,190,30,150
+DBP,mm Hg,20,150,30,150
+Resp,BPM,0,50,1,40
+EtCO2,mm Hg,,,,
+BaseExcess,mmol/L,,,,
+HCO3,mmol/L,,,0,62
+FiO2,%,0,1,0.21,1
+pH,,,,7,7.7
+PaCO2,mm Hg,,,10,100
+SaO2,%,0,100,80,100
+AST,IU/L,0,60000,10,1000
+BUN,mg/dL,0,500,0,115
+Alkalinephos,IU/L,,,,
+Calcium,(mg/dL),0,20,0,50
+Chloride,(mmol/L),60,150,,
+Creatinine,(mg/dL),0,10,0,8
+Bilirubin_direct,mg/dL,0,40,0,20
+Glucose,mg/dL,0,1000,0,500
+Lactate,mg/dL,0,1000,0,15
+Magnesium,(mmol/dL),,,,
+Phosphate,(mg/dL),,,,
+Potassium,(mmol/L),0,250,0,12
+Bilirubin_total,mg/dL,0,50,0,20
+Troponin I,ng/mL,,,,
+Hct,%,10,70,14,55
+Hgb,g/dL,2,25,0,16
+PTT,seconds,0,250,20,160
+WBC,count/micro liter,,,0,60
+Fibrinogen,mg/dL,,,,
+Platelets,count/micro Liter,,,0,1000
+Age,,,,,
+Gender,,,,,
+Unit1,,,,,
+Unit2,,,,,
+HospAdmTime,,,,,
+ICULOS,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
